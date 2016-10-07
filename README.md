@@ -4,7 +4,7 @@ Simple icons to replace your old icons on your computer, which give your screen 
 You can use this icons on macOS, GNU/Linux and Windows.<br>
 Icons are available in `.icns`, `.ico` & `.png` formats.
 ##Currently Available Icons
-<img src="/" alt="Available Icons"><br>
+<img src="s-icons.jpg" alt="Available Icons"><br>
 Currently only 4 icons are available.<br>
 More will be added as soon as possible.<br>
 If you want to contribute some icon designs to this icon set, see the Contributing section.
